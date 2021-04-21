@@ -1,1 +1,2 @@
 # gobook
+exercise from gopl
